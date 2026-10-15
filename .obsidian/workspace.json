@@ -187,11 +187,18 @@
       "command-palette:Отвори палитрата с команди": false,
       "bases:Създай нова база": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "callout-manager:Insert Callout": false
     }
   },
-  "active": "2f83345d1dd4a5a2",
+  "active": "7605e56f1e176ee8",
   "lastOpenFiles": [
+    "Изображения/2.png",
+    "Изображения/1.png",
+    "1.png",
+    "Изображения",
+    "Нова папка",
+    "Pasted image 20261015122500.png",
     "Лекции/HTML/01 - Въведение в HTML.md",
     "Шаблони/CSS - Урок.md.md",
     "Лекции/HTML/01 - Въведение в HTML.md",
