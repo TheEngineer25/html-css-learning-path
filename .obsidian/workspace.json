@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "960c2e05e3f0f6fa",
+        "id": "c260bda1eb772825",
         "type": "tabs",
         "children": [
           {
-            "id": "2efd748f86ca31c8",
+            "id": "23fe41077cddc5d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -191,10 +191,11 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "2efd748f86ca31c8",
+  "active": "7605e56f1e176ee8",
   "lastOpenFiles": [
-    "Лекции/HTML/01 - Въведение в HTML.md",
+    "Изображения/20.png",
     "Лекции/CSS/01 - Въведение в CSS.md",
+    "Лекции/HTML/01 - Въведение в HTML.md",
     "Шаблони/CSS - Урок.md.md",
     "Лекции/HTML/08 - Бележка за семантичен HTML.md",
     "Упражнения/img/challenges.jpg",
@@ -208,12 +209,11 @@
     "Проекти/img/challenges.jpg",
     "Проекти/img",
     "Лекции/HTML/07 - Структуриране на страницата.md",
-    "Изображения/Pasted image 20261016122300.png",
+    "Изображения/19.png",
     "Лекции/HTML/06 - Линкове.md",
     "Проекти/blog.html",
     "Изображения/18.png",
     "Лекции/HTML/05 - Изображения и атрибути.md",
-    "Изображения/17.png",
     "Лекции/HTML/04 - Още текстови елементи - списъци.md",
     "Лекции/HTML/03 - Текстови елементи.md",
     "Лекции/HTML/02 - HTML структура на документа.md",
