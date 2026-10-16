@@ -32,6 +32,39 @@
       "fileExistsBehavior": {
         "kind": "prompt"
       }
+    },
+    {
+      "id": "5199d164-8e5b-43b3-bc84-c671d5aca6a8",
+      "name": "Нов CSS урок",
+      "type": "Template",
+      "command": false,
+      "templatePath": "Шаблони/CSS - Урок.md.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "discoverExistingNotesBeforeCreate": false,
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Лекции/CSS"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "copyLinkToClipboard": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsBehavior": {
+        "kind": "prompt"
+      }
     }
   ],
   "inputPrompt": "single-line",
