@@ -11,10 +11,14 @@
             "id": "2efd748f86ca31c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Лекции/CSS/01 - Въведение в CSS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Нов раздел"
+              "title": "01 - Въведение в CSS"
             }
           }
         ]
@@ -187,8 +191,9 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "7605e56f1e176ee8",
+  "active": "2efd748f86ca31c8",
   "lastOpenFiles": [
+    "Лекции/HTML/01 - Въведение в HTML.md",
     "Лекции/CSS/01 - Въведение в CSS.md",
     "Шаблони/CSS - Урок.md.md",
     "Лекции/HTML/08 - Бележка за семантичен HTML.md",
@@ -209,7 +214,6 @@
     "Изображения/18.png",
     "Лекции/HTML/05 - Изображения и атрибути.md",
     "Изображения/17.png",
-    "Лекции/HTML/01 - Въведение в HTML.md",
     "Лекции/HTML/04 - Още текстови елементи - списъци.md",
     "Лекции/HTML/03 - Текстови елементи.md",
     "Лекции/HTML/02 - HTML структура на документа.md",
