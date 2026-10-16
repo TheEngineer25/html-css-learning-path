@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a995d8eb1b28dabf",
+            "id": "b6efe826a245e81b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/HTML/05 - Изображения и атрибути.md",
+                "file": "Лекции/HTML/08 - Бележка за семантичен HTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 - Изображения и атрибути"
-            }
-          },
-          {
-            "id": "febd5848e73d89ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Лекции/HTML/06 - Линкове.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06 - Линкове"
-            }
-          },
-          {
-            "id": "0c02a361374c10ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Лекции/HTML/07 - Структуриране на страницата.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "07 - Структуриране на страницата"
+              "title": "08 - Бележка за семантичен HTML"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,10 +191,12 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "active": "0c02a361374c10ed",
+  "active": "b6efe826a245e81b",
   "lastOpenFiles": [
-    "Лекции/HTML/06 - Линкове.md",
     "Лекции/HTML/07 - Структуриране на страницата.md",
+    "Лекции/HTML/08 - Бележка за семантичен HTML.md",
+    "Изображения/Pasted image 20261016122300.png",
+    "Лекции/HTML/06 - Линкове.md",
     "Проекти/blog.html",
     "Изображения/18.png",
     "Лекции/HTML/05 - Изображения и атрибути.md",
@@ -238,7 +211,6 @@
     "Изображения/12.png",
     "Изображения/11.png",
     "Изображения/10.png",
-    "Изображения/9.png",
     "Лекции/HTML/02 - HTML структура на документа.md",
     "Проекти/index.html",
     "Проекти/content.txt",
