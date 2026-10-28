@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/HTML/02 - HTML Структура на документа.md",
+                "file": "Лекции/HTML/04 - Списъци.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - HTML Структура на документа"
+              "title": "04 - Списъци"
             }
           }
         ],
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Лекции/HTML/02 - HTML Структура на документа.md",
+                "file": "Лекции/HTML/04 - Списъци.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Лекции/HTML/02 - HTML Структура на документа.md",
+                "file": "Лекции/HTML/04 - Списъци.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Лекции/HTML/02 - HTML Структура на документа.md",
+                "file": "Лекции/HTML/04 - Списъци.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -220,9 +220,9 @@
   },
   "active": "a316385c76e48e31",
   "lastOpenFiles": [
+    "Лекции/HTML/02 - HTML Структура на документа.md",
     "Лекции/HTML/04 - Списъци.md",
     "Лекции/HTML/03 - Текстови елементи.md",
-    "Лекции/HTML/02 - HTML Структура на документа.md",
     "Лекции/HTML/01 - Въведение в HTML.md",
     "Изображения/3.png",
     "Изображения/2.png",
