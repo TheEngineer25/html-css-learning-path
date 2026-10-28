@@ -155,6 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Неозаглавен файл.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,8 +185,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2cad2c43599a5ae1",
+  "active": "a95b7145db1d47ab",
   "lastOpenFiles": [
+    "Неозаглавен файл.md",
+    "Templates/Шаблон - HTML CSS лекция.md",
+    "Templates",
     "Шаблони/Шаблон - HTML CSS лекция.md",
     "Лекции/CSS",
     "Лекции/Нова папка",
