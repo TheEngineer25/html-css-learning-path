@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "366a8922e81151a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "44ef9f567a4926f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cad2c43599a5ae1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Нов раздел"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e7f762a6ccc10e3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2481d5e0d4e2c9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a95b7145db1d47ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файлове"
+            }
+          },
+          {
+            "id": "6911a203db59652b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Търсене"
+            }
+          },
+          {
+            "id": "2f47daad5c7fa7ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Отметки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "868e95fdc4f80b6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d167b88c3217c4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b6d15102a283191",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратни връзки"
+            }
+          },
+          {
+            "id": "3dfcc78595beeafd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Изходящи връзки"
+            }
+          },
+          {
+            "id": "897956cecefda517",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Етикети"
+            }
+          },
+          {
+            "id": "d9bfd24d3cb08a5e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Всички свойства"
+            }
+          },
+          {
+            "id": "47d28ff12f9606dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Бърз преглед": false,
+      "graph:Графичен изглед": false,
+      "canvas:Създайте ново платно": false,
+      "daily-notes:Отвори днешната дневна бележка": false,
+      "templates:Вмъкване на шаблон": false,
+      "command-palette:Отвори палитрата с команди": false,
+      "bases:Създай нова база": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2cad2c43599a5ae1",
+  "lastOpenFiles": [
+    "Шаблони/Шаблон - HTML CSS лекция.md",
+    "Лекции/CSS",
+    "Лекции/Нова папка",
+    "Лекции/HTML"
+  ]
+}
