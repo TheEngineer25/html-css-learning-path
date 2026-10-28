@@ -169,12 +169,23 @@
               "icon": "lucide-list",
               "title": "Структура"
             }
+          },
+          {
+            "id": "5830adcda239957b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -188,12 +199,16 @@
       "bases:Създай нова база": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3431929503b7ee01",
+  "active": "a95b7145db1d47ab",
   "lastOpenFiles": [
+    "Excalidraw/01 - Въведение в HTML 2026-10-28 14.18.26.excalidraw.md",
     "Лекции/HTML/01 - Въведение в HTML.md",
+    "Excalidraw",
+    "Изображения/1.png",
     "Templates/Шаблон - HTML CSS лекция.md",
     "Лекции/HTML/test.md",
     "Неозаглавен файл.md",
