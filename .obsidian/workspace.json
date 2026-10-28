@@ -11,10 +11,14 @@
             "id": "2cad2c43599a5ae1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Лекции/HTML/test.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Нов раздел"
+              "title": "test"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Лекции/HTML/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Лекции/HTML/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Неозаглавен файл.md",
+                "file": "Лекции/HTML/test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,8 +191,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a95b7145db1d47ab",
+  "active": "2cad2c43599a5ae1",
   "lastOpenFiles": [
+    "Лекции/HTML/test.md",
     "Неозаглавен файл.md",
     "Templates/Шаблон - HTML CSS лекция.md",
     "Templates",

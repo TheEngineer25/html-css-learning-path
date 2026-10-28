@@ -2,9 +2,9 @@
   "choices": [
     {
       "id": "2ad356fc-5bf4-4072-9a3b-037c64dc0d78",
-      "name": "New template",
+      "name": "01 - Тест на шаблона",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "Templates/Шаблон - HTML CSS лекция.md",
       "fileNameFormat": {
         "enabled": false,
@@ -14,7 +14,8 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "Лекции/HTML"
+          "Лекции/HTML",
+          "Лекции/CSS"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
