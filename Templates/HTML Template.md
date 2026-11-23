@@ -1,6 +1,6 @@
 
 <%*
-const folder = "HTML";
+const folder = "Лекции/HTML";
 const files = app.vault.getMarkdownFiles()
   .filter(f => f.parent?.path === folder);
 
