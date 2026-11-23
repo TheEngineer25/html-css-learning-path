@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "4f9bfb013182fdf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "09ad06e7def2c51e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57e122d7eae4c46c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лекции/HTML/01 - Въведение.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 - Въведение"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "318354a32cf69c1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2860ca6be5b9511c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c99a37c539a898b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файлове"
+            }
+          },
+          {
+            "id": "a3d369f8066b107f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Търсене"
+            }
+          },
+          {
+            "id": "cef42564c4fb3b9d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Отметки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "55e4abbc196ba1ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d735742c6e5f55c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ff86e541378f81e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Лекции/HTML/01 - Въведение.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратни връзки"
+            }
+          },
+          {
+            "id": "2e5b80fc1f72fadf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Лекции/HTML/01 - Въведение.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Изходящи връзки"
+            }
+          },
+          {
+            "id": "0486ffba5b0097fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Етикети"
+            }
+          },
+          {
+            "id": "15e64613bafb7a8d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Всички свойства"
+            }
+          },
+          {
+            "id": "54d810cc6b765b2f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Лекции/HTML/01 - Въведение.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Бърз преглед": false,
+      "graph:Графичен изглед": false,
+      "canvas:Създайте ново платно": false,
+      "daily-notes:Отвори днешната дневна бележка": false,
+      "templates:Вмъкване на шаблон": false,
+      "command-palette:Отвори палитрата с команди": false,
+      "bases:Създай нова база": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "57e122d7eae4c46c",
+  "lastOpenFiles": [
+    "Templates/CSS Template.md",
+    "Лекции/HTML/01 - Въведение.md",
+    "Templates/HTML Template.md",
+    "Лекции/CSS",
+    "Лекции/Нова папка",
+    "Лекции/HTML",
+    "Templates",
+    "Нова папка"
+  ]
+}
