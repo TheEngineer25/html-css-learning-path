@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/HTML Template.md",
+                "file": "Лекции/HTML/01 - Въведение.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML Template"
+              "title": "01 - Въведение"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/HTML Template.md",
+                "file": "Лекции/HTML/01 - Въведение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/HTML Template.md",
+                "file": "Лекции/HTML/01 - Въведение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/HTML Template.md",
+                "file": "Лекции/HTML/01 - Въведение.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,9 +192,10 @@
   },
   "active": "57e122d7eae4c46c",
   "lastOpenFiles": [
+    "Templates/HTML Template.md",
+    "Лекции/HTML/01 - Въведение.md",
     "Templates/CSS Template.md",
     "Лекции/HTML/01 - Въведение.md",
-    "Templates/HTML Template.md",
     "Лекции/CSS",
     "Лекции/Нова папка",
     "Лекции/HTML",
