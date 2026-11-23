@@ -62,11 +62,37 @@ tags:
 
 **Обяснение:** `<body>` е за видимата част на страницата. Всичко, което ние виждаме, се намира вътре в този елемент.
 
-Нека в елемента `<head>`  da uto`nim za
+Нека в елемента `<head>`  да уточним заглавието на страницата. Това става с помощта на елемента `<title>`.
 
+### HTML
 
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The Basic Language of the Web: HTML</title>
+</head>
 
+<body></body>
+</html>
+```
 
+Вместо да оставяме елемента `<body>` пазен, нека всъщност да добавим едно заглавие там. 
+
+### HTML
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The Basic Language of the Web: HTML</title>
+</head>
+
+<body>
+	<h1>The Basic Language of the Web: HTML</html>
+</body>
+</html>
+```
 
 
 ## 📌 Важни неща за запомняне
@@ -95,7 +121,7 @@ tags:
 
 <!-- Добави изображенията от папка Изображения тук -->
 
-
+![](6.png)
 
 ## 🔗 Свързани уроци
 
