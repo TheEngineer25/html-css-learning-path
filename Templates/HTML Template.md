@@ -1,5 +1,4 @@
 
-
 <%*
 const folder = "HTML";
 const files = app.vault.getMarkdownFiles()
@@ -12,6 +11,7 @@ const numbers = files.map(f => {
 
 const next = Math.max(0, ...numbers) + 1;
 const number = String(next).padStart(2, "0");
+
 const topic = await tp.system.prompt("Тема на HTML урока");
 
 await tp.file.rename(`${number} - ${topic || "Нов урок"}`);
@@ -28,6 +28,8 @@ tags:
 
 ## 🎯 Какво представлява?
 
+Обяснение на темата със собствени думи.
+
 ## 💻 Основен синтаксис
 
 ```html
@@ -36,7 +38,7 @@ tags:
 
 ## 📝 Примери
 
-### Пример 1
+### HTML
 
 ```html
 
@@ -60,8 +62,20 @@ tags:
 
 ## 💡 Какво научих?
 
+Моето обобщение:
+
 ## ❓ Въпроси за преговор
+
+- 
+
+## 🖼️ Изображения
+
+<!-- Добави изображенията от папка Изображения тук -->
 
 ## 🔗 Свързани уроци
 
 ## 📚 Източници
+
+
+
+
