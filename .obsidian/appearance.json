@@ -2,5 +2,6 @@
   "showRibbon": false,
   "theme": "obsidian",
   "textFontFamily": "Inter",
-  "monospaceFontFamily": "Inter"
+  "monospaceFontFamily": "Inter",
+  "cssTheme": ""
 }

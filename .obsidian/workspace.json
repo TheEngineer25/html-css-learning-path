@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/HTML/02 - HTML структура на документа.md",
+                "file": "Лекции/HTML/03 - Текстови елементи.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - HTML структура на документа"
+              "title": "03 - Текстови елементи"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Лекции/HTML/02 - HTML структура на документа.md",
+                "file": "Лекции/HTML/03 - Текстови елементи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Лекции/HTML/02 - HTML структура на документа.md",
+                "file": "Лекции/HTML/03 - Текстови елементи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Лекции/HTML/02 - HTML структура на документа.md",
+                "file": "Лекции/HTML/03 - Текстови елементи.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,8 +190,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c99a37c539a898b",
+  "active": "d0e6e7f16e73c0c1",
   "lastOpenFiles": [
+    "Лекции/HTML/02 - HTML структура на документа.md",
+    "Лекции/HTML/03 - Текстови елементи.md",
+    "Лекции/HTML/01 - Въведение.md",
     "Изображения/6.png",
     "Изображения/5.png",
     "Проекти/The Code Magazine/index.html",
@@ -204,15 +207,11 @@
     "Проекти/The Code Magazine/challenges.jpg",
     "Проекти/The Code Magazine/02-HTML-Fundamentals/related-3.jpg",
     "Проекти/The Code Magazine/02-HTML-Fundamentals/related-2.jpg",
-    "Проекти/The Code Magazine/02-HTML-Fundamentals/related-1.jpg",
     "Проекти/The Code Magazine/02-HTML-Fundamentals/content.txt",
     "Проекти/The Code Magazine/02-HTML-Fundamentals",
     "Проекти/The Code Magazine",
     "Проекти/Нова папка",
-    "Лекции/HTML/01 - Въведение.md",
-    "Лекции/HTML/02 - HTML структура на документа.md",
     "Templates/HTML Template.md",
-    "Лекции/HTML/02 - HTML структура на документа.md",
     "Templates/CSS Template.md",
     "Лекции/CSS",
     "Лекции/Нова папка",
